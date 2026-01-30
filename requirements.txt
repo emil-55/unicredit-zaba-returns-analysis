@@ -1,0 +1,8 @@
+pandas
+warnings
+yfinance
+matplotlib
+statsmodels
+seaborn
+scipy
+numpy
